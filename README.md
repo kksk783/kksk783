@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 ![](https://raw.githubusercontent.com/kksk783/kksk783/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--
