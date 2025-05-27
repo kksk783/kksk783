@@ -1,5 +1,5 @@
 ## Hi 👋
-
+![Animated Avatar]([https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://i.pinimg.com/originals/2d/4a/6e/2d4a6ec0e063866dbceff541cb9e75d2.gif))
 ![](https://raw.githubusercontent.com/kksk783/kksk783/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--
 **kksk783/kksk783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
