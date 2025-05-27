@@ -1,5 +1,5 @@
 ## Hi 👋
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1099793171511174207" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=1099793171511174207" height="295" width="345" alt="error Process">
 ![](https://raw.githubusercontent.com/kksk783/kksk783/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--
 **kksk783/kksk783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
