@@ -1,7 +1,7 @@
 ## Hi 👋
 
 <!-- 直接放 gif 或圖片連結，不要用 Pinterest embed 頁面 -->
-<img src="https://i.pinimg.com/originals/2d/4a/6e/2d4a6ec0e063866dbceff541cb9e75d2.gif" height="295" width="345" alt="Animated Avatar">
+<img src="https://i.pinimg.com/originals/2d/4a/6e/2d4a6ec0e063866dbceff541cb9e75d2.gif](https://i.pinimg.com/originals/2d/4a/6e/2d4a6ec0e063866dbceff541cb9e75d2.gif" height="295" width="345" alt="Animated Avatar">
 
 <!-- 正確的 SVG raw 連結 -->
 ![](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake-dark.svg)
