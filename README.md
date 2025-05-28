@@ -1,7 +1,7 @@
 ## Hi 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kksk783/kksk783/main/image/hitori.gif" height="auto" width="100%" style="border:none;" alt="Animated Avatar">
+  <img src="https://raw.githubusercontent.com/kksk783/kksk783/main/image/hitori.gif" height="auto" width="80%" style="border:none;" alt="Animated Avatar">
 </div>
 
 <!-- 正確的 SVG raw 連結 -->
