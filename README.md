@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/kksk783/kksk783/main/image/hitori.gif" height="auto" width="80%" style="border:none;" alt="Animated Avatar">
 </div>
 
-<!-- 正確的 SVG raw 連結 -->
-<!--[](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake.svg)-->
-![](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake.svg)
+<!--![](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake.svg)-->
+<!--![](https://raw.githubusercontent.com/kksk783/kksk783/output/github-contribution-grid-snake-dark.svg)-->
 <!--
 **kksk783/kksk783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
